@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "世界に刻め！イナズママーク",
+  "base_artist": "T-Pis",
+  "createdAt": "2025-12-26T01:36:35.984568Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界に刻め!イナズママーク",
+      "artist": "T-Pis",
+      "has_synced": false,
+      "path": "select/pl_01_世界に刻め!イナズママーク_T-Pis.txt"
+    }
+  ]
+}
